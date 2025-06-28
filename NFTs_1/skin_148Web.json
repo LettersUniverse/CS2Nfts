@@ -1,0 +1,39 @@
+{
+  "format": "CHIP-0007",
+  "sensitive_content": false,
+  "name": "\u2605 Karambit | Freehand",
+  "description": "The Karambit features a curved blade mimicking a tiger\u0027s claw. It has been custom painted with a freehand graffiti-style design.",
+  "series_number": 148,
+  "collection": {
+    "id": "e604b43d-e330-40e2-ad1a-df5fdd728537",
+    "name": "CS2 Skins",
+    "attributes": [
+      {
+        "type": "description",
+        "value": "CS2 Skins is a collection of digital weapon skins from Counter-Strike 2. Each skin is a unique combination of weapon type, rarity, and design, allowing collectors to own a piece of gaming history. The collection celebrates the iconic designs that have become part of gaming culture."
+      },
+      {
+        "type": "icon",
+        "value": "https://raw.githubusercontent.com/LettersUniverse/CS2Nfts/refs/heads/main/Logo.jpg"
+      },
+      {
+        "type": "banner",
+        "value": "https://raw.githubusercontent.com/LettersUniverse/CS2Nfts/refs/heads/main/Banner.jpg"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Knife"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Covert"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Factory New"
+    }
+  ]
+}
