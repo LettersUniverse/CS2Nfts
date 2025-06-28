@@ -1,0 +1,40 @@
+1. Definitions
+"Collection": A set of NFTs created by a fan, containing artwork inspired by *Counter-Strike 2* (CS2) in-game skins.
+
+"Valve": Valve Corporation, owner of all rights to CS2 and its content.
+
+"Holder": The owner of an NFT from this Collection.
+
+2. Nature of the Collection
+This is an unofficial, fan-made project not affiliated with or endorsed by Valve.
+
+All original CS2 skins, logos, and assets are property of Valve. These NFTs do not represent in-game items and grant no rights within CS2.
+
+3. Permitted Use
+Holders may:
+
+Own, display, and trade NFTs as collectibles.
+
+Use NFT artwork for personal, non-commercial purposes (e.g., profile pictures).
+
+Prohibited:
+
+Commercial exploitation (e.g., selling merchandise, games, or other derivatives).
+
+Misrepresenting the Collection as official Valve content.
+
+Modifying or distributing Valve’s original CS2 assets (this applies only to fan-art variants).
+
+4. Copyright & Valve’s Rights
+This Collection complies with Valve’s Fan Content Policy (if applicable; refer to Valve’s guidelines).
+
+Valve retains all rights to CS2. If Valve requests discontinuation, the Collection will be halted.
+
+5. Liability Disclaimer
+The Creator (you) is not responsible for:
+
+Legal actions by Valve or third parties.
+
+Loss of NFT value due to platform restrictions (e.g., delisting).
+
+NFTs are provided "as is" with no warranties.
